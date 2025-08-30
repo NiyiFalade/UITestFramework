@@ -1,0 +1,16 @@
+services:
+  tests:
+    build: .
+    container_name: playwright-tests
+    volumes:
+      - ./allure-results:/app/allure-results
+    command: sh -c "rm -rf /app/allure-results/* /app/allure-report/* && pytest -v --alluredir=/app/allure-results"
+
+  allure:
+    build: .
+    container_name: allure-report
+    ports:
+      - "5252:5252"
+    volumes:
+      - ./allure-results:/app/allure-results
+    command: sh -c "rm -rf /app/allure-report/* && allure serve /app/allure-results --port 5252"

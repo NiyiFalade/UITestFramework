@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+*.egg
+build/
+dist/
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+
+# IDE / Editor settings
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# pytest
+.cache/
+.pytest_cache/
+.coverage
+coverage.xml
+
+# Allure results & reports
+allure-results/
+allure-report/
+
+# Logs
+*.log
+
+# Docker
+*.p
