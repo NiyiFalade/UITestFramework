@@ -124,4 +124,5 @@ All dependencies are managed in `requirements.txt`:
 ---
 <img width="1353" height="679" alt="allurereport" src="https://github.com/user-attachments/assets/1b27b14a-97cb-4418-9da6-2143fcc4d8d1" />
 
-![Alt text](path/to/image.png)
+<img width="735" height="572" alt="ProjectStructure" src="https://github.com/user-attachments/assets/71a08213-297d-4438-b091-d2b900800114" />
+
