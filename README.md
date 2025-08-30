@@ -122,13 +122,6 @@ All dependencies are managed in `requirements.txt`:
 - [pytest-dotenv](https://pypi.org/project/pytest-dotenv/)  
 
 ---
+<img width="1353" height="679" alt="allurereport" src="https://github.com/user-attachments/assets/1b27b14a-97cb-4418-9da6-2143fcc4d8d1" />
 
-## 🤝 Contributing
-
-Pull requests are welcome! Please fork the repo and create a PR with improvements, bug fixes, or new features.
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
+![Alt text](path/to/image.png)
