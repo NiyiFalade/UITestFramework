@@ -23,8 +23,8 @@ It automates **UI functionality testing** for an e-commerce flow:
 1. Clone this repository:
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone  https://github.com/NiyiFalade/UITestFramework.git
+cd uitestframework
 ```
 
 2. (Optional) Create and activate a virtual environment:
